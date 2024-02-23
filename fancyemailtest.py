@@ -9,7 +9,7 @@ subject = "An email with attachment from Python"
 body = "This is an email with attachment sent from Python"
 sender_email = ""#seu email
 receiver_email = ""#recipintes
-password = ("qasv cfma kqmj oqht")#sua sennha apppassword 2step verification
+password = ("")#sua sennha apppassword 2step verification
 
 # Create a multipart message and set headers
 message = MIMEMultipart()
